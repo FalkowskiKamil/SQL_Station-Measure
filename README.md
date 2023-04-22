@@ -1,2 +1,1 @@
-# SQL_Station-Measure
-APP takes 2 CSV datafile(stations and meansure) and tranform it to SQL DB
+This code defines several functions to interact with a SQLite database, creates tables for two types of data (stations and measurements), populates the tables with data from CSV files, and executes a sample SQL query using the SQLAlchemy library.
